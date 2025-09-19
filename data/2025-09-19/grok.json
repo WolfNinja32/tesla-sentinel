@@ -1,0 +1,20 @@
+{
+  "date": "2025-09-19",
+  "timezone": "America/Los_Angeles",
+  "alerts": [
+    {
+      "time_pt": "12:00",
+      "headline": "No new credible information or significant stock movement",
+      "verification": "mixed",
+      "sources": [
+        "X:@elonmusk (no new robotics/tranche posts today)",
+        "News: Optimus AI head departure to Meta (confirmed)",
+        "Analyst: Baird Outperform upgrade (confirmed)",
+        "Rumor: single-source 'Tesla acquiring Apple' (unverified)"
+      ],
+      "market": { "price": 424.24, "pct_change": 1.94, "volume_rel_30d": 0.8 },
+      "update_new": "new",
+      "notes": "No tranche progress; no >5% or >2× vol triggers."
+    }
+  ]
+}
